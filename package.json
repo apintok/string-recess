@@ -1,0 +1,26 @@
+{
+  "name": "string-recess",
+  "version": "1.0.0",
+  "description": "",
+  "license": "MIT",
+  "main": "app.ts",
+  "scripts": {
+    "start": "nodemon app.ts"
+  },
+  "keywords": [],
+  "author": "apintok",
+  "devDependencies": {
+    "@types/bootstrap": "^5.2.10",
+    "@types/chalk": "^2.2.0",
+    "@types/express": "^4.17.21",
+    "@types/node": "^20.11.16",
+    "nodemon": "^3.0.3",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.4.3"
+  },
+  "dependencies": {
+    "bootstrap": "^5.3.3",
+    "ejs": "^3.1.10",
+    "express": "^4.19.2"
+  }
+}
