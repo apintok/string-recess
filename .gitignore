@@ -1,0 +1,8 @@
+.codesandbox
+.devcontainer
+.parcel-cache
+
+node_modules
+
+# misc
+string-recess.code-workspace
